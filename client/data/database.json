@@ -1,10 +1,5 @@
 {
-    "dataUser": [
-        {
-            "id": "215",
-            "username": "av",
-            "password": "a",
-            "OTP": ""
-        }
-    ]
+	"ID" : "None",
+	"UserName" : "none",
+	"Password" : "None"
 }
